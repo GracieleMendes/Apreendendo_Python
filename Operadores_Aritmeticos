@@ -15,3 +15,6 @@ print(produto_1 * produto_2)
 
 #Divisão
 print(produto_1 / produto_2)
+
+#Divisão Interira
+print(produto_1 // produto_2)
