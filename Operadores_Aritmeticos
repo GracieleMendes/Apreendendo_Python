@@ -21,3 +21,6 @@ print(produto_1 // produto_2)
 
 #Operador de módulo (%): retorna o resto da divisão entre dois valores.
 print(produto_1 % produto_2)
+
+#Potencia
+print(produto_1 ** produto_2)
